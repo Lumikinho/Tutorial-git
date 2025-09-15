@@ -1,3 +1,2 @@
 ## Como enviar o seu projeto para o github
----
-Vá para github.com 
+1. Vá para github.com 
